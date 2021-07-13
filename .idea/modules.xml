@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tiles_Code_Lab.iml" filepath="$PROJECT_DIR$/.idea/modules/Tiles_Code_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finished/Tiles_Code_Lab.finished.iml" filepath="$PROJECT_DIR$/.idea/modules/finished/Tiles_Code_Lab.finished.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/Tiles_Code_Lab.start.iml" filepath="$PROJECT_DIR$/.idea/modules/start/Tiles_Code_Lab.start.iml" />
+    </modules>
+  </component>
+</project>

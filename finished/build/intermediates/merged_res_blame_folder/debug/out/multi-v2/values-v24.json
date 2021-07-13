@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sean/wear-tiles/finished/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "929"
+                    }
+                }
+            ]
+        }
+    ]
+}

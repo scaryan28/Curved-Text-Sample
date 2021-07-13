@@ -1,0 +1,2 @@
+com/example/wear/tiles/BuildConfig.java
+ com.example.wear.tiles.BuildConfig

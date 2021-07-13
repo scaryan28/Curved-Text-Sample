@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sean/wear-tiles/start/build/intermediates/res/merged/debug/drawable_ic_run.xml.flat",
+        "source": "/Users/sean/wear-tiles/start/src/main/res/drawable/ic_run.xml"
+    },
+    {
+        "merged": "/Users/sean/wear-tiles/start/build/intermediates/res/merged/debug/drawable_tile_goals.png.flat",
+        "source": "/Users/sean/wear-tiles/start/src/main/res/drawable/tile_goals.png"
+    },
+    {
+        "merged": "/Users/sean/wear-tiles/start/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/sean/wear-tiles/start/src/debug/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+MERGED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+MERGED from [androidx.wear.tiles:tiles-renderer:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/3abf53e68c666a316c0e0c9a432331f1/jetified-tiles-renderer-1.0.0-alpha06/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.wear:wear:1.2.0-alpha09] /Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7b4f6a3829b2fdddcc9748fac4498146/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.wear.tiles:tiles:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/91382dc36cf8fbb90759b41aa675f133/jetified-tiles-1.0.0-alpha06/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a5a0b063ee27ba656c86b2b7494c9ab9/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sean/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sean/.gradle/caches/transforms-2/files-2.1/5952daedc1aa41fa836ddd9a377afbdd/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/94599ed2a8cc3f7c8f3726ceb6653166/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:16:1-34:12
+	package
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:17:5-37
+		INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+		INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+		INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:1-51:12
+		INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:16:11-69
+uses-feature#android.hardware.type.watch
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:20:5-64
+MERGED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:20:5-64
+MERGED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:20:19-61
+application
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:23:5-50:19
+MERGED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:23:5-50:19
+MERGED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:23:5-50:19
+MERGED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sean/.gradle/caches/transforms-2/files-2.1/5952daedc1aa41fa836ddd9a377afbdd/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sean/.gradle/caches/transforms-2/files-2.1/5952daedc1aa41fa836ddd9a377afbdd/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:25:9-41
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:24:9-36
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:27:9-59
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:27:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:31:13-66
+service#com.example.wear.tiles.ArccosTileProviderService
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:34:9-49:19
+	android:label
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:36:13-55
+	android:permission
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:39:13-91
+	android:icon
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:38:13-44
+	android:description
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:37:13-59
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:35:13-54
+intent-filter#action:name:androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:41:13-43:29
+action#androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:42:17-88
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:42:25-85
+meta-data#androidx.wear.tiles.PREVIEW
+ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:46:13-48:59
+	android:resource
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:48:17-56
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml:47:17-59
+uses-sdk
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+MERGED from [androidx.wear.tiles:tiles-renderer:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/3abf53e68c666a316c0e0c9a432331f1/jetified-tiles-renderer-1.0.0-alpha06/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.tiles:tiles-renderer:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/3abf53e68c666a316c0e0c9a432331f1/jetified-tiles-renderer-1.0.0-alpha06/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear:wear:1.2.0-alpha09] /Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.2.0-alpha09] /Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7b4f6a3829b2fdddcc9748fac4498146/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7b4f6a3829b2fdddcc9748fac4498146/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.tiles:tiles:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/91382dc36cf8fbb90759b41aa675f133/jetified-tiles-1.0.0-alpha06/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.tiles:tiles:1.0.0-alpha06] /Users/sean/.gradle/caches/transforms-2/files-2.1/91382dc36cf8fbb90759b41aa675f133/jetified-tiles-1.0.0-alpha06/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a5a0b063ee27ba656c86b2b7494c9ab9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a5a0b063ee27ba656c86b2b7494c9ab9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sean/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sean/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sean/.gradle/caches/transforms-2/files-2.1/5952daedc1aa41fa836ddd9a377afbdd/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sean/.gradle/caches/transforms-2/files-2.1/5952daedc1aa41fa836ddd9a377afbdd/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/94599ed2a8cc3f7c8f3726ceb6653166/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sean/.gradle/caches/transforms-2/files-2.1/94599ed2a8cc3f7c8f3726ceb6653166/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+		INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sean/wear-tiles/finished/src/main/AndroidManifest.xml
+		INJECTED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml
+activity#com.example.wear.tiles.TilePreviewActivity
+ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:24:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/sean/wear-tiles/finished/src/debug/AndroidManifest.xml:29:27-74

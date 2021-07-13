@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sean/wear-tiles/start/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/sean/.gradle/caches/transforms-2/files-2.1/89e0cf0bbc534a39e02e09b6bb5ba1d7/core-1.5.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "/Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,173",
+                        "endColumns": "117,121",
+                        "endOffsets": "168,290"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,274",
+                        "endColumns": "117,121",
+                        "endOffsets": "269,391"
+                    }
+                }
+            ]
+        }
+    ]
+}

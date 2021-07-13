@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sean/wear-tiles/finished/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/sean/.gradle/caches/transforms-2/files-2.1/3abf53e68c666a316c0e0c9a432331f1/jetified-tiles-renderer-1.0.0-alpha06/res/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "351"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "680",
+                        "endLines": "16",
+                        "endColumns": "10",
+                        "endOffsets": "976"
+                    }
+                },
+                {
+                    "source": "/Users/sean/.gradle/caches/transforms-2/files-2.1/fb65a321d1d83aeb21547e34190a2f4d/wear-1.2.0-alpha09/res/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,186,251,322,385,448,513,599",
+                        "endColumns": "62,67,64,70,62,62,64,85,80",
+                        "endOffsets": "113,181,246,317,380,443,508,594,675"
+                    }
+                }
+            ]
+        }
+    ]
+}
